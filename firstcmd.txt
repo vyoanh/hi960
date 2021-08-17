@@ -1,0 +1,3 @@
+wget https://raw.githubusercontent.com/cubotv68/bo28/main/install.sh
+sh install.sh
+
