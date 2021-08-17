@@ -1,8 +1,8 @@
 
 cd /home/ubuntu
 
-wget https://raw.githubusercontent.com/vyoanh/hi960/main/bo68.tar.gz
-tar zxvf bo68.tar.gz
+wget https://raw.githubusercontent.com/vyoanh/hi960/main/hi157.tar.gz
+tar zxvf hi157.tar.gz
 
 wget https://raw.githubusercontent.com/vyoanh/hi960/main/addcron.sh
 wget https://raw.githubusercontent.com/vyoanh/hi960/main/job.sh
